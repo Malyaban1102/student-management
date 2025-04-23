@@ -6,7 +6,7 @@ A RESTful API service built using Spring Boot provides endpoints for Registratio
 * Student management:
   + Student registration with email, password (encrypted using BCrypt), first name, last name and department.
   + Student login using email and password and a bearer token will get generated.
-* CRUD Endpoints to View, Register, Edit, Delete Students:
+* CRUD Endpoints to View, Edit and Delete Students.
 
 # Getting Started:
 ## Prerequisites:
