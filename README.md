@@ -32,7 +32,7 @@ Create a .env file and set the enviornment variables DB_URI, DB_USERNAME, DB_PAS
 Save the changes to the application.yml file.
 
 ## Running the application:
-Run the application using Gradle:
+Run the application using Maven:
 
     ./mvnw spring-boot:run
 
